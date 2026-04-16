@@ -2637,10 +2637,27 @@ body[data-theme="dark"] .map-popup-company span {
 .skill-box:nth-child(7)::before {
   background: var(--yellow);
 }
-.skill-box:nth-child(8)::before {
+.skill-box:nth-child(9)::before {
   background: var(--accent);
 }
-
+skill-box:nth-child(10)::before {
+  background: var(--cyan);
+}
+.skill-box:nth-child(11)::before {
+  background: var(--yellow);
+}
+.skill-box:nth-child(12)::before {
+  background: var(--pink);
+}
+.skill-box:nth-child(13)::before {
+  background: var(--accent);
+}
+.skill-box:nth-child(14)::before {
+  background: var(--cyan);
+}
+.skill-box:nth-child(4)::before {
+  background: var(--accent);
+}
 .skill-box:nth-child(7),
 .skill-box:nth-child(8) {
   grid-column: span 3;
